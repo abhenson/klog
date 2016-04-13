@@ -1,0 +1,48 @@
+key event at 1460585571.698605, 272 (['BTN_LEFT', 'BTN_MOUSE']), down
+key event at 1460585571.762569, 272 (['BTN_LEFT', 'BTN_MOUSE']), up
+key event at 1460585577.350006, 29 (KEY_LEFTCTRL), down
+key event at 1460585577.444239, 42 (KEY_LEFTSHIFT), down
+key event at 1460585577.693038, 42 (KEY_LEFTSHIFT), hold
+key event at 1460585577.725969, 42 (KEY_LEFTSHIFT), hold
+key event at 1460585577.733028, 19 (KEY_R), down
+key event at 1460585577.851697, 19 (KEY_R), up
+key event at 1460585577.872650, 29 (KEY_LEFTCTRL), up
+key event at 1460585577.903066, 42 (KEY_LEFTSHIFT), up
+key event at 1460585579.333569, 22 (KEY_U), down
+key event at 1460585579.484210, 22 (KEY_U), up
+key event at 1460585579.835913, 25 (KEY_P), down
+key event at 1460585579.970542, 25 (KEY_P), up
+key event at 1460585580.006479, 31 (KEY_S), down
+key event at 1460585580.093266, 31 (KEY_S), up
+key event at 1460585580.399060, 28 (KEY_ENTER), down
+key event at 1460585580.501869, 28 (KEY_ENTER), up
+key event at 1460585603.378620, 274 (BTN_MIDDLE), down
+key event at 1460585603.554633, 274 (BTN_MIDDLE), up
+key event at 1460585632.338646, 274 (BTN_MIDDLE), down
+key event at 1460585632.474657, 274 (BTN_MIDDLE), up
+key event at 1460585633.154592, 274 (BTN_MIDDLE), down
+key event at 1460585633.330586, 274 (BTN_MIDDLE), up
+key event at 1460585640.850586, 274 (BTN_MIDDLE), down
+key event at 1460585641.106586, 274 (BTN_MIDDLE), up
+key event at 1460585690.154673, 274 (BTN_MIDDLE), down
+key event at 1460585690.322687, 274 (BTN_MIDDLE), up
+key event at 1460585692.482688, 272 (['BTN_LEFT', 'BTN_MOUSE']), down
+key event at 1460585692.618684, 272 (['BTN_LEFT', 'BTN_MOUSE']), up
+key event at 1460585771.194716, 274 (BTN_MIDDLE), down
+key event at 1460585771.346716, 274 (BTN_MIDDLE), up
+key event at 1460585798.774577, 56 (KEY_LEFTALT), down
+key event at 1460585798.919695, 62 (KEY_F4), down
+key event at 1460585799.011077, 56 (KEY_LEFTALT), up
+key event at 1460585799.011267, 62 (KEY_F4), up
+key event at 1460585802.362733, 272 (['BTN_LEFT', 'BTN_MOUSE']), down
+key event at 1460585802.498744, 272 (['BTN_LEFT', 'BTN_MOUSE']), up
+key event at 1460585803.706745, 272 (['BTN_LEFT', 'BTN_MOUSE']), down
+key event at 1460585803.810745, 272 (['BTN_LEFT', 'BTN_MOUSE']), up
+key event at 1460585804.778737, 272 (['BTN_LEFT', 'BTN_MOUSE']), down
+key event at 1460585805.002735, 272 (['BTN_LEFT', 'BTN_MOUSE']), up
+key event at 1460585809.786738, 272 (['BTN_LEFT', 'BTN_MOUSE']), down
+key event at 1460585809.930695, 272 (['BTN_LEFT', 'BTN_MOUSE']), up
+key event at 1460585819.555877, 59 (KEY_F1), down
+key event at 1460585819.690607, 59 (KEY_F1), up
+key event at 1460585820.782130, 29 (KEY_LEFTCTRL), down
+key event at 1460585820.927783, 23 (KEY_I), down
