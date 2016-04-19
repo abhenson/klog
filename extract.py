@@ -30,6 +30,7 @@ def main(folder):
     files = get_logs(folder)
     for file in files:
         data.extend(get_keys(file))
+        data.extend(('EOF', 'EOF', 'EOF'))
     print("Collected {} samples".format(len(data)))
     return data
 
